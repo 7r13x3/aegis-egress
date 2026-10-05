@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.obj
+*.sys
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# OS
+Thumbs.db
+Desktop.ini
